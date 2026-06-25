@@ -1,5 +1,5 @@
 {
-  "enabled": false,
-  "message": "",
-  "eta": ""
+  "enabled": true,
+  "message": "Debbuging UI/UX to improve user experiance!",
+  "eta": "Till @6:00pm [IST]"
 }
