@@ -1,0 +1,108 @@
+{
+  "members": [
+    {
+      "id": "m1",
+      "handle": "@Paxjest",
+      "role": "Founder & Admiral",
+      "name": "Paxjest",
+      "quote": "Creating chaos since day one.",
+      "traits": [
+        "Strategy",
+        "Leadership",
+        "Chaos"
+      ],
+      "avatar": "https://cdn.discordapp.com/avatars/1210535016904523789/ceccdb43fdfc70a409ea0e0b568deb5f.png?size=1024",
+      "kanji": "力",
+      "colors": [
+        "#f59e0b",
+        "#ef4444"
+      ],
+      "isAwaiting": false
+    },
+    {
+      "id": "m2",
+      "handle": "",
+      "role": "",
+      "name": "",
+      "quote": "",
+      "traits": [
+        "",
+        "",
+        ""
+      ],
+      "avatar": "",
+      "kanji": "力",
+      "colors": [
+        "#3b82f6",
+        "#06b6d4"
+      ],
+      "isAwaiting": true
+    },
+    {
+      "id": "m3",
+      "handle": "",
+      "role": "",
+      "name": "",
+      "quote": "",
+      "traits": [
+        "",
+        "",
+        ""
+      ],
+      "avatar": "",
+      "kanji": "力",
+      "colors": [
+        "#10b981",
+        "#84cc16"
+      ],
+      "isAwaiting": true
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "Jan 2024",
+      "label": "New World founded. The first step into the unknown.",
+      "icon": "🌊"
+    },
+    {
+      "id": "t2",
+      "date": "Mar 2024",
+      "label": "First 50 members joined the crew.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "t3",
+      "date": "Jun 2024",
+      "label": "Major alliance formed with rival crews.",
+      "icon": "🤝"
+    },
+    {
+      "id": "t4",
+      "date": "Dec 2024",
+      "label": "Reached the top of the server leaderboard.",
+      "icon": "👑"
+    },
+    {
+      "id": "t5",
+      "date": "Jun 2025",
+      "label": "Season 2 begins. New adventures await.",
+      "icon": "🚀"
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "date": "Jun 2026",
+      "title": "Season 3 Announcement",
+      "body": "The crew sets sail once more. New World Season 3 kicks off."
+    },
+    {
+      "id": "n2",
+      "date": "May 2026",
+      "title": "Recruitment Open",
+      "body": "We are looking for skilled fighters to join our ranks."
+    }
+  ],
+  "discordInvite": "https://discord.gg/5N9J8Y3atM"
+}
