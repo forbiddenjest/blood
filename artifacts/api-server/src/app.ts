@@ -27,7 +27,7 @@ const publicDir = join(dirname(fileURLToPath(import.meta.url)), "..", "public");
 
 if (existsSync(publicDir)) {
   app.use(express.static(publicDir));
-  app.get("*", (_req, res) => {
+  app.get("/{*path}", (_req, res) => {
     res.sendFile(join(publicDir, "index.html"));
   });
 }
