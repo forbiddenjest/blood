@@ -15,7 +15,7 @@ COPY artifacts/api-server/package.json ./artifacts/api-server/
 COPY artifacts/new-world/package.json ./artifacts/new-world/
 
 # Install all deps — use --approve-builds to allow esbuild postinstall scripts
-RUN pnpm install --no-frozen-lockfile --approve-builds
+RUN pnpm install --no-frozen-lockfile && pnpm rebuild esbuild
 
 # Copy source
 COPY artifacts/ ./artifacts/
